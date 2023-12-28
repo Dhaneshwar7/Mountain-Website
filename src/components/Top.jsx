@@ -30,7 +30,7 @@ const Top = () => {
                   end:"top top",
                   start: "top 35%",
                   scrub: true,
-                  markers: true,
+                  // markers: true,
                   toggleActions: "restart none none none",
                 },
                 top: 145,
